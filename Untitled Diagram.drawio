@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.8.6">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="906" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="uHBPEPIHEXhULRUn7OcT-3" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uHBPEPIHEXhULRUn7OcT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uHBPEPIHEXhULRUn7OcT-4" target="uHBPEPIHEXhULRUn7OcT-10">
+        <mxCell id="uHBPEPIHEXhULRUn7OcT-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uHBPEPIHEXhULRUn7OcT-4" target="uHBPEPIHEXhULRUn7OcT-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uHBPEPIHEXhULRUn7OcT-12" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uHBPEPIHEXhULRUn7OcT-11">
@@ -30,7 +30,7 @@
           <mxGeometry x="440" y="160" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="uHBPEPIHEXhULRUn7OcT-10" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="840" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uHBPEPIHEXhULRUn7OcT-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uHBPEPIHEXhULRUn7OcT-14" target="uHBPEPIHEXhULRUn7OcT-17">
           <mxGeometry relative="1" as="geometry" />
@@ -43,14 +43,6 @@
         <mxCell id="uHBPEPIHEXhULRUn7OcT-14" value="Text contains &lt;br&gt;&lt;i&gt;&quot;keywords_1&quot;&lt;/i&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="320" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="uHBPEPIHEXhULRUn7OcT-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uHBPEPIHEXhULRUn7OcT-17" target="uHBPEPIHEXhULRUn7OcT-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uHBPEPIHEXhULRUn7OcT-22" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uHBPEPIHEXhULRUn7OcT-21">
-          <mxGeometry x="-0.1402" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uHBPEPIHEXhULRUn7OcT-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uHBPEPIHEXhULRUn7OcT-17" target="uHBPEPIHEXhULRUn7OcT-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -59,14 +51,63 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uHBPEPIHEXhULRUn7OcT-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uHBPEPIHEXhULRUn7OcT-17" target="uHBPEPIHEXhULRUn7OcT-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uHBPEPIHEXhULRUn7OcT-34" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uHBPEPIHEXhULRUn7OcT-32">
+          <mxGeometry x="-0.1761" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uHBPEPIHEXhULRUn7OcT-17" value="Text contains &lt;br&gt;&lt;b&gt;numbers&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="320" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="uHBPEPIHEXhULRUn7OcT-20" value="End&lt;div&gt;(Use previous Bit Depth)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="520" width="160" height="40" as="geometry" />
+        <mxCell id="uHBPEPIHEXhULRUn7OcT-20" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="600" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uHBPEPIHEXhULRUn7OcT-23" value="Text contains any &lt;br&gt;&lt;b&gt;numbers &lt;/b&gt;with &lt;br&gt;&lt;i&gt;&quot;CASING_PREFIXES&quot;&lt;/i&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uHBPEPIHEXhULRUn7OcT-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uHBPEPIHEXhULRUn7OcT-23" target="uHBPEPIHEXhULRUn7OcT-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uHBPEPIHEXhULRUn7OcT-37" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uHBPEPIHEXhULRUn7OcT-36">
+          <mxGeometry x="-0.0891" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uHBPEPIHEXhULRUn7OcT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uHBPEPIHEXhULRUn7OcT-23" target="uHBPEPIHEXhULRUn7OcT-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="919.9999999999998" y="519.9999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uHBPEPIHEXhULRUn7OcT-39" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uHBPEPIHEXhULRUn7OcT-38">
+          <mxGeometry x="-0.7281" relative="1" as="geometry">
+            <mxPoint y="29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uHBPEPIHEXhULRUn7OcT-23" value="Text contains any &lt;br&gt;&lt;b&gt;numbers &lt;/b&gt;with prefixes from&lt;br&gt;&lt;i&gt;&quot;CASING_PREFIXES&quot;&lt;/i&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="300" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="uHBPEPIHEXhULRUn7OcT-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uHBPEPIHEXhULRUn7OcT-28" target="uHBPEPIHEXhULRUn7OcT-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uHBPEPIHEXhULRUn7OcT-30" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uHBPEPIHEXhULRUn7OcT-29">
+          <mxGeometry x="-0.0191" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uHBPEPIHEXhULRUn7OcT-28" value="No Output" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uHBPEPIHEXhULRUn7OcT-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uHBPEPIHEXhULRUn7OcT-31" target="uHBPEPIHEXhULRUn7OcT-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uHBPEPIHEXhULRUn7OcT-31" value="Output &lt;br style=&quot;font-size: 12px;&quot;&gt;Previous Row Bitdepth" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="640" y="480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uHBPEPIHEXhULRUn7OcT-35" value="Find Highest number with a prefix from &lt;i&gt;&quot;CASING_PREFIXES&quot;&lt;/i&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="350" width="180" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
